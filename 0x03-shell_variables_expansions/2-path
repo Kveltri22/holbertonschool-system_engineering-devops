@@ -1,2 +1,2 @@
 #!/bin/bash
-exoort PATH= "./action:$PATH 
+exoort PATH= "../action:$PATH 
