@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# oh god help me
 x=1
 While [ $x-le 10 ]
 do 
