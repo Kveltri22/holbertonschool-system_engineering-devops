@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 # Keep Going!
-i=0
-until [ $i > 9 ]
+i=10
+until [ "$i" -le 0 ]
 do
-echo "$i Best School";
-	    ((i++))
+	    echo "Holberton School"
+	        i=$((i - 1))
 done
+i=$i
