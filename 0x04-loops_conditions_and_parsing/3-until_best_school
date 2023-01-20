@@ -7,4 +7,3 @@ echo "$i Best School";
 	    i=$((i-1))
 done
 echo "i value is $i"
-echo "loop terminated"
