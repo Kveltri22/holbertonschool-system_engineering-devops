@@ -2,7 +2,6 @@
 # Keep Going!
 i=10
 until [ "$i" -le 0 ]
-do
-	    echo "Holberton School"
-	        i=$((i - 1))
+do echo "Best School"
+	 i=$((i - 1))
 done
