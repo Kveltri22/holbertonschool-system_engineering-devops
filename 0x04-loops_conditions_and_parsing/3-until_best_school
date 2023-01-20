@@ -1,9 +1,8 @@
 #!/usr/bin/env bash
 # Keep Going!
-i=11
+i=10
 until [ $i == 1 ]
 do
 echo "$i Best School";
 	    i=$((i-1))
 done
-echo "i value is $i"
