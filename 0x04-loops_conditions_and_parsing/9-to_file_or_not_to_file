@@ -3,7 +3,7 @@
 f=school
 if [ -e "$f" ]
    then 
-      echo "school file exsists"
+      echo "school file exsist"
       else
       echo "school file does not exsist" 
 exit
