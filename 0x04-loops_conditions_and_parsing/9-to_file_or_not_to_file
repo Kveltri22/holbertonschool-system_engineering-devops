@@ -5,8 +5,7 @@ if [ -e "$f" ]
    then 
       echo "school file exsists"
       else
-      echo "school file does not exsist" 
-exit
+      echo "school file does not exsist"
 fi
 if [ -s "$f" ]
    then
