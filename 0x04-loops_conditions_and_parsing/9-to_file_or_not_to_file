@@ -5,7 +5,7 @@ if [ -e "$f" ]
    then 
       echo "school file exsists"
       else
-      echo "School file does not exsist" 
+      echo "school file does not exsist" 
 exit
 fi
 if [ -s "$f" ]
@@ -16,7 +16,7 @@ if [ -s "$f" ]
 fi
 if [ -f "$f" ]
 then 
-      echo "regular file"
+      echo "school is a regular file"
       else
       :
 fi
