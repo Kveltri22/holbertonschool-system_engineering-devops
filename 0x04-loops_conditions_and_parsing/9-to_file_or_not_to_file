@@ -3,9 +3,9 @@
 f=school
 if [ -e "$f" ]
    then 
-      echo "school file exsist"
-      else
-      echo "school file does not exsist" 
+      echo "school file exists"
+else
+      echo "school file does not exist" 
 exit
 fi
 if [ -s "$f" ]
