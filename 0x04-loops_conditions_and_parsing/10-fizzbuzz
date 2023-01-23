@@ -18,7 +18,8 @@ then
 elif [ $i -gt 100 ]
 then 
     break 
-else echo "$i"
+else
+       	echo "$i"
 	(( i++ ))
 fi 
 done
