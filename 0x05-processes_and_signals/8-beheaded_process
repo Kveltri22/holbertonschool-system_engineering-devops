@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#Project 3
+pkill -f -SIGKILL 7-highlander
